@@ -1,0 +1,6 @@
+int x;
+float m, n;
+char y;
+
+x= m* n+v;
+$
