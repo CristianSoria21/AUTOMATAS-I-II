@@ -1,0 +1,22 @@
+//////////ACEPTA///////////
+int x ; 
+x = 2 - 1 + ( 5 - 3 ) ;
+
+float x ; 
+int y ; 
+x = 2.2 - 1 + ( 5 - 3.4 ) ;
+
+
+//////////ASIGNACION INVALIDA///////////
+char x ; 
+x = x - 3.4 + ( 4 - 5 )  ;
+
+float y ; 
+char x ; 
+x = x - ( y - 1 )  ; 
+
+
+//////////VARIABLES INCOMPATIBLES///////////
+int x ; 
+char a ; 
+x = a - x ;
