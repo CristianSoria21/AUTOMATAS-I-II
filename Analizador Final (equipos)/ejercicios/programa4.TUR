@@ -1,0 +1,20 @@
+Programa name { 
+int var , var2 ; 
+float f1 ;  
+var = 3 + 10 * 5 ; 
+f1 = read ; 
+print [ ~Hola~ + var ] ; 
+switch [ var ] { 
+case 1 : var = ( 4 * 5 ) ; break 
+case 2 : var = 'Y' ; break 
+Default : var = 'Z' ; break 
+} 
+while [ var == 1 ] { 
+while [ var == 1 ] { 
+var = var + 1 ; 
+}  
+} 
+while [ var == 1 ] { 
+var = var + 1 ; 
+}  
+}
