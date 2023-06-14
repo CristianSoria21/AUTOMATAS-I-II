@@ -1,8 +1,0 @@
-Programa name { 
-float a ; 
-a = 1 ; 
-while [ a <= 10 ] { 
-print [ ~Res~ + a ] ; 
-a = a + 1 ; 
-} 
-}
