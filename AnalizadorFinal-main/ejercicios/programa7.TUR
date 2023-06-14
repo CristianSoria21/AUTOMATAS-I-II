@@ -1,0 +1,12 @@
+Programa name { 
+int a ; 
+float var , var2 ; 
+var =  ( 5 * 4 ) + ( 2 * 4 ) ; 
+a = read ; 
+print [ ~Hola~ + var ] ; 
+switch [ a ] { 
+case 1 : var = 'X' ; break 
+case 2 : var = 'Y' ; break  
+Default : var = 'Z' ; break 
+}  
+}

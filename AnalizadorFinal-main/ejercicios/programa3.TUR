@@ -1,0 +1,13 @@
+Programa name { 
+int var ;
+var = read ; 
+while [ var <= 3 ] { 
+switch [ var ] { 
+case 1 : print [ ~Numero~ + var ] ;  break  
+case 2 : print [ ~Numero~ + var ] ;  break 
+case 3 : print [ ~Numero~ + var ] ;  break 
+Default : print [ ~Numero~ + var ] ;  break 
+} 
+var = var + 1 ; 
+} 
+}
