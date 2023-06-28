@@ -1,0 +1,14 @@
+programa x;
+	procedimiento proc(int x, int y)
+		
+		int var=1;
+		if(x> var || y<var) then
+			var=y;
+		endif
+	endProcedimiento
+	
+
+	
+	int resultado;
+	resultado= resta*5;
+endPrograma
